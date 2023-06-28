@@ -2,7 +2,7 @@
 
 
 ## 🚀 About Me
-I am a Frontend developer, with the aspiration to be a future Fullstack developer, I really like to solve and take on challenges again to be able to challenge myself day by day and be better than yesterday
+I am a 👨‍💻Frontend Developer👨‍💻, with the aspiration to be a future Fullstack Developer👨‍💻, I really like to solve and take on challenges again to be able to challenge myself day by day and be better than yesterday
 
 
 ## 🛠 Skills
