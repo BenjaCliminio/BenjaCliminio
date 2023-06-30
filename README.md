@@ -8,5 +8,9 @@ I am a 👨‍💻Frontend Developer👨‍💻, with the aspiration to be a fut
 ## 🛠 Skills
 I have very good knowledge in programming, thus mastering the following skills
 
-HTML | CSS | BOOTSTRAP | TAILWIND | JAVASCRIPT | REACT | NEXT | PYTHON
+FRONTEND
+HTML | CSS | BOOTSTRAP | TAILWIND | JAVASCRIPT | REACT | NEXT
+
+BACKEND
+PYTHON
 
