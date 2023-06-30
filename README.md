@@ -9,8 +9,10 @@ I am a 👨‍💻Frontend Developer👨‍💻, with the aspiration to be a fut
 I have very good knowledge in programming, thus mastering the following skills
 
 FRONTEND
+
 HTML | CSS | BOOTSTRAP | TAILWIND | JAVASCRIPT | REACT | NEXT
 
 BACKEND
+
 PYTHON
 
